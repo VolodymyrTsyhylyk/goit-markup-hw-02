@@ -70,10 +70,8 @@ body {
   color: var(--accent-color);
 }
 
-.site-nav .link-curent {
-  color: var(--accent-color);
-  text-decoration: none;
 }
+
 /* НАВІГАЦІЯ */
 
 /* ХЕДЕР, контакти */
